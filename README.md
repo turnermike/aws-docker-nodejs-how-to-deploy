@@ -2,6 +2,8 @@
 Tutorial: [https://www.zeolearn.com/magazine/how-to-deploy-a-node.js-application-to-amazon-web-services-using-docker](https://www.zeolearn.com/magazine/how-to-deploy-a-node.js-application-to-amazon-web-services-using-docker)
 Source code: [https://github.com/emmyyusufu/sample-nodejs-app](https://github.com/emmyyusufu/sample-nodejs-app)
 
+An example of deploying a Node.js Docker application to AWS via ECR.
+
 # Docker
 
 Build container:
